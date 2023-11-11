@@ -1,0 +1,1 @@
+- Hello, my name is Wilson, I'm new to programming, studying the back-end daily, and I'm looking to improve my knowledge, and who knows, maybe even get a job.
